@@ -1,0 +1,8 @@
+{
+	"require" : {
+		"php": "~7.4.0"
+	},
+	"scripts": {
+		"start:dev": "cd public_html && php -S localhost:8000"
+	}
+}
